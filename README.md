@@ -22,6 +22,14 @@ To analyze multi-table healthcare data and uncover insights about:
 
 A combination of SQL joins, window functions, subqueries, CASE logic, and date functions is used to perform the analysis.
 
+# Tech Stack
+
+- <b>SQL (MySQL)</b> — Joins, Window Functions, Subqueries, CTEs, Date Functions
+
+- <b>Excel</b> — Data cleaning and validation
+
+- <b>PowerPoint</b> — Final business presentation
+
 # Dataset Overview
 
 The project uses five datasets:
